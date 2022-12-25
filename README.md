@@ -1,3 +1,3 @@
-# python
-sa
+# python projesi dosyalarda
+
 
