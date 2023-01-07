@@ -1,4 +1,4 @@
 # python projesi dosyalarda
 
-(www.patika.dev)
+[Patika.dev](www.patika.dev)
 
